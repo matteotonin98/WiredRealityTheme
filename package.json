@@ -1,9 +1,14 @@
 {
-    "name": "matrix-the-red-dress-theme",
-    "displayName": "The Red Dress",
-    "description": "Theme inspired by the famous matrix scene with the woman wearing a red dress",
+    "name": "wired-reality-theme",
+    "displayName": "Wired Reality",
+    "description": "Theme inspired by the vision of future of 1980s and 1990s",
     "version": "0.0.1",
     "publisher": "xXBalestraroXx",
+    "icon": "imgs/icon.png",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/matteotonin98/WiredRealityTheme.git"
+    },
     "engines": {
       "vscode": "^1.80.0"
     },
@@ -13,9 +18,9 @@
     "contributes": {
       "themes": [
         {
-          "label": "The Red Dress",
+          "label": "Wired Reality",
           "uiTheme": "vs-dark",
-          "path": "./themes/the_red_dress_theme.json"
+          "path": "./themes/wired_reality_theme.json"
         }
       ]
     } 

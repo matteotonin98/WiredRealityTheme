@@ -1,0 +1,20 @@
+{
+    // Usare IntelliSense per imparare i possibili attributi.
+    // Passa il mouse per visualizzare le descrizioni degli attributi esistenti.
+    // Per maggiori informazioni, visita: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Esegui Tema", // Il nome che apparirà nel menu Debug di VS Code
+            "type": "extensionHost", // Il tipo di debugger per le estensioni
+            "request": "launch",     // La richiesta è di avviare
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}" // Specifica il percorso dell'estensione da debuggare
+            ],
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js" // Non strettamente necessario per un tema, ma buona pratica
+            ]
+            // "preLaunchTask": "${defaultBuildTask}" // Può essere utile se hai un task di build
+        }
+    ]
+}

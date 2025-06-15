@@ -1,0 +1,22 @@
+{
+    "name": "matrix_themes",
+    "displayName": "The Red Dress",
+    "description": "Theme inspired by the famous matrix scene with the woman wearing a red dress",
+    "version": "0.0.1",
+    "publisher": "xXBalestraroXx",
+    "engines": {
+      "vscode": "^1.80.0"
+    },
+    "categories": [
+      "Themes" 
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "The Red Dress",
+          "uiTheme": "vs-dark",
+          "path": "./themes/the_red_dress_theme.json"
+        }
+      ]
+    } 
+  }

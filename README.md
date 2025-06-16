@@ -10,7 +10,8 @@ This theme is build using as referance gritty CRT monitors, long strings of brig
 
 Readability and comfort is my top priority when it comes to themes for coding, so I tried to find a good balance between it being easy on the eyes but also captivating. 
 
-I hope you find this theme to your liking, for any feedback fell free to cantact me.
+I hope you find this theme to your liking, for any feedback fell free to cantact me at:  
+https://github.com/matteotonin98/WiredRealityTheme/issues
 
 *xXBalestraroXx*
 
@@ -24,8 +25,8 @@ I hope you find this theme to your liking, for any feedback fell free to cantact
 
 ## Palette
 
+Here is the list of main colors that inspired me, most of them are tuned to make elemnts more readable while keeping a the the futuristic retro them that i have in mind. 
+
+
+
 ![Color Palete](./imgs/palette.png)
-
-## Color Palette  
-
-

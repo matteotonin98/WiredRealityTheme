@@ -788,7 +788,9 @@
       "scope": [
         "punctuation",
         "meta.brace",
-        "meta.delimiter"
+        "meta.delimiter",
+        "operator" 
+        // "keyword.operator"
       ],
       "settings": {
         "foreground": "#7A9C9B"

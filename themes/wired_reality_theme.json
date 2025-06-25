@@ -787,10 +787,10 @@
     {
       "scope": [
         "punctuation",
-        "meta.brace",
-        "meta.delimiter",
-        "operator",
-        "keyword.operator"
+        // "meta.brace",
+        "meta.delimiter"
+        //"operator",
+        // "keyword.operator"
       ],
       "settings": {
         "foreground": "#7A9C9B"

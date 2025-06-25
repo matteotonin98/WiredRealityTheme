@@ -111,8 +111,8 @@
     //
     // Lists and Trees (Side Bar, Explorer, etc.) Colors
     //
-    "list.activeSelectionBackground": "#7A9C9B80",
-    "list.activeSelectionForeground": "#FFFFFF",
+    "list.activeSelectionBackground": "#7A9C9B60",
+    "list.activeSelectionForeground": "#D0D0D0",
     "list.activeSelectionIconForeground": "#D0D0D0",
     "list.dropBackground": "#284D2860",
     // "list.focusBackground": "#284D2880",
@@ -509,21 +509,21 @@
     "terminal.foreground": "#D0D0D0",
     "terminal.ansiBlack": "#181D20",
     "terminal.ansiRed": "#DB5252",
-    "terminal.ansiGreen": "#7A9C9B", // Colore verde di base del tema
-    "terminal.ansiYellow": "#A7AAA0", // Colore grigio/giallo del tema
-    "terminal.ansiBlue": "#7A9C9B", // Mantenuto il colore tema, ma più "blu" per contrasto con il bright
-    "terminal.ansiMagenta": "#DB5252", // Colore rosso di base del tema, usato come magenta
-    "terminal.ansiCyan": "#A7AAA0", // Colore grigio/giallo del tema, usato come ciano
+    "terminal.ansiGreen": "#7A9C9B",
+    "terminal.ansiYellow": "#A7AAA0",
+    "terminal.ansiBlue": "#7A9C9B",
+    "terminal.ansiMagenta": "#DB5252",
+    "terminal.ansiCyan": "#A7AAA0",
     "terminal.ansiWhite": "#A7AAA0",
-    "terminal.ansiBrightBlack": "#3A4045", // Un grigio molto scuro per un nero "brillante"
-    "terminal.ansiBrightRed": "#FF6B6B", // Rosso più acceso
-    "terminal.ansiBrightGreen": "#B2F090", // Verde più brillante e distinto
-    "terminal.ansiBrightYellow": "#FFE066", // Giallo più caldo e visibile
-    "terminal.ansiBrightBlue": "#9BBBD7", // Azzurro più chiaro
-    "terminal.ansiBrightMagenta": "#FF99CC", // Magenta più chiaro e vivido
-    "terminal.ansiBrightCyan": "#B3E0E0", // Ciano più brillante
+    "terminal.ansiBrightBlack": "#3A4045",
+    "terminal.ansiBrightRed": "#FF6B6B",
+    "terminal.ansiBrightGreen": "#B2F090",
+    "terminal.ansiBrightYellow": "#FFE066",
+    "terminal.ansiBrightBlue": "#9BBBD7",
+    "terminal.ansiBrightMagenta": "#FF99CC",
+    "terminal.ansiBrightCyan": "#B3E0E0",
     "terminal.ansiBrightWhite": "#FFFFFF",
-    "terminal.selectionBackground": "#284D28C0",
+    "terminal.selectionBackground": "#284D2880",
     "terminalCursor.background": "#DB5252",
     "terminalCursor.foreground": "#DB5252",
     "terminal.border": "#7A9C9B",
@@ -624,7 +624,7 @@
     "statusBar.border": "#181D20",
     "statusBarItem.remoteBackground": "#DB5252",
     "statusBarItem.remoteForeground": "#FFFFFF",
-    "statusBarItem.remoteHoverBackground": "#5A7C7A",
+    "statusBarItem.remoteHoverBackground": "#DB5252",
     "statusBarItem.remoteHoverForeground": "#FFFFFF",
 
     //
@@ -789,7 +789,7 @@
         "punctuation",
         "meta.brace",
         "meta.delimiter",
-        "operator", 
+        "operator",
         "keyword.operator"
       ],
       "settings": {

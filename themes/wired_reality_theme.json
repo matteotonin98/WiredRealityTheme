@@ -729,8 +729,8 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#D0D0D0"
-        // "foreground": "#A7AAA0"
+        //"foreground": "#D0D0D0"
+         "foreground": "#A7AAA0"
       }
     },
     {

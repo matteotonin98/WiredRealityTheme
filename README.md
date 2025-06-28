@@ -11,7 +11,7 @@ This theme is build using as referance gritty CRT monitors, long strings of brig
 Readability and comfort is my top priority when it comes to themes for coding, so I tried to find a good balance between it being easy on the eyes but also captivating. 
 
 I hope you find this theme to your liking, for any feedback fell free to cantact me at:  
-https://github.com/matteotonin98/WiredRealityTheme/issues
+https://github.com/xxbalestraroxx/WiredRealityTheme/issues
 
 *xXBalestraroXx*
 
